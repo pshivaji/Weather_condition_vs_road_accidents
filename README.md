@@ -1,2 +1,3 @@
 # Weather_condition_vs_road_accidents
-w
+crash data colllected from qld government website and climate data is collected from BoM
+this project is about finding whether there is relationship between weather condition(like rains and stroms) car accidents based on data from queensland
